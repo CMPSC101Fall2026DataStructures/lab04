@@ -9,7 +9,6 @@
 * __Assigned__: Friday, 30th October 2026 at 2:35pm
 * __Due__: Friday, 5th November 2026 at 2:35pm
 * __Expiration__: Friday, 12th November 2026 at 2:35pm
-  
 
 Note: the _expiration_ date is the last date you can submit your work for a grade.
 
