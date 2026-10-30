@@ -12,7 +12,7 @@
 * 
 Note: the _expiration_ date is the last date you can submit your work for a grade.
 
-![tayllor](graphics/taylorSeries.png)
+![taylor](graphics/taylorSeries.png)
 
 Taylor series are a powerful way to approximate complex functions using polynomials. In this figure, they are used to approximate the cosine function.
 
